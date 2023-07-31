@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# manual entries
+.DS_Store
+.vscode/settings.json
+samples/macaddress-parse
+*.dSYM
+
+#ignore bin
+bin/
+*/bin/*
